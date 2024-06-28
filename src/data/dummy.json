@@ -1,0 +1,109 @@
+{
+    "status": "success",
+    "data": {
+        "vibes": [
+            {
+                "id": 1,
+                "content": {
+                    "vibePhoto": null,
+                    "vibe": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sed justo semper, fauci bus quam in, condimentum lectus. Phasellus eu ex arcu."
+                },
+                "user": {
+                    "id": 101,
+                    "username": "@gabriella",
+                    "name": "Gabriella V",
+                    "profilePicture": "https://api.dicebear.com/8.x/thumbs/svg?seed=Callie"
+                },
+                "createdAt": "2023-07-31T12:34:56Z",
+                "likes": 10,
+                "replies": 5,
+                "isLiked": true
+            },
+            {
+                "id": 2,
+                "content": {
+                    "vibePhoto": "https://picsum.photos/1600/900?grayscale",
+                    "vibe": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sed justo semper, fauci bus quam in, condimentum lectus. Phasellus eu ex arcu."
+                },
+                "user": {
+                    "id": 102,
+                    "username": "@arrdix",
+                    "name": "Yudistira Ardi",
+                    "profilePicture": "https://api.dicebear.com/8.x/thumbs/svg?seed=Bear"
+                },
+                "createdAt": "2023-07-31T13:45:21Z",
+                "likes": 15,
+                "replies": 3,
+                "isLiked": false
+            },
+            {
+                "id": 3,
+                "content": {
+                    "vibePhoto": null,
+                    "vibe": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sed justo semper, fauci bus quam in, condimentum lectus. Phasellus eu ex arcu."
+                },
+                "user": {
+                    "id": 103,
+                    "username": "@walterwhite",
+                    "name": "Heisenberg",
+                    "profilePicture": "https://api.dicebear.com/8.x/thumbs/svg?seed=Gizmo"
+                },
+                "createdAt": "2023-07-31T13:45:21Z",
+                "likes": 15,
+                "replies": 3,
+                "isLiked": false
+            },
+            {
+                "id": 4,
+                "content": {
+                    "vibePhoto": null,
+                    "vibe": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sed justo semper, fauci bus quam in, condimentum lectus. Phasellus eu ex arcu."
+                },
+                "user": {
+                    "id": 104,
+                    "username": "@jennie",
+                    "name": "Jennie Ruby Jane",
+                    "profilePicture": "https://api.dicebear.com/8.x/thumbs/svg?seed=Baby"
+                },
+                "createdAt": "2023-07-31T12:34:56Z",
+                "likes": 10,
+                "replies": 5,
+                "isLiked": true
+            },
+            {
+                "id": 5,
+                "content": {
+                    "vibePhoto": null,
+                    "vibe": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sed justo semper, fauci bus quam in, condimentum lectus. Phasellus eu ex arcu."
+                },
+                "user": {
+                    "id": 105,
+                    "username": "@jessepinkman",
+                    "name": "Jesse",
+                    "profilePicture": "https://api.dicebear.com/8.x/thumbs/svg?seed=Zoe"
+                },
+                "createdAt": "2023-07-31T13:45:21Z",
+                "likes": 15,
+                "replies": 3,
+                "isLiked": false
+            },
+            {
+                "id": 6,
+                "content": {
+                    "vibePhoto": "https://picsum.photos/500/750",
+                    "vibe": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sed justo semper, fauci bus quam in, condimentum lectus. Phasellus eu ex arcu."
+                },
+                "user": {
+                    "id": 106,
+                    "username": "@arcticmonkeys",
+                    "name": "Arctic Monkeys",
+                    "profilePicture": "https://api.dicebear.com/8.x/thumbs/svg?seed=Chester"
+                },
+                "createdAt": "2023-07-31T13:45:21Z",
+                "likes": 15,
+                "replies": 3,
+                "isLiked": false
+            }
+        ]
+    }
+}
