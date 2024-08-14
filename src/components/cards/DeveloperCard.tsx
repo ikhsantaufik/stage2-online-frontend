@@ -20,7 +20,7 @@ function DeveloperCard() {
         mb={".25rem"}
       >
         <Text color={"circle.font"} fontSize={fontSizing.small}>
-          Developed by @ikhsan
+          Developed by @iikhsantaufikk
         </Text>
         <Text color={"circle.dark"} fontSize={fontSizing.small}>
           •
